@@ -9,6 +9,8 @@ The whole Project was inspired by the [KMA "Chief Disruptor"](https://kmamachine
 
 It is a Fuzz with an active EQ, different selectable Fuzz versions, treble boost and a clean blend.
 
+## Modding the Big Muff Pi
+
 At first we search the web for all the fun ways to modify a Big Muff Pi, to get as much veriety as we can from our Muff.
 For all the mods and more check out [Coda Effects](https://www.coda-effects.com/2015/11/big-muff-mods-and-tweaks.html?m=0), it was an invaluable resource.
 Another unbelievable resource is [The Big Muff Pi Page](https://www.bigmuffpage.com/Big_Muff_Pi_versions_schematics_part1.html) by Kit Rae. Here you can find out everything about the Big Muff and it's history.
@@ -29,5 +31,8 @@ And again Kit Rea to the rescue if you want to understand [what part does what](
 [![Big Muff Pi tone bypass - quick mod gets the midrange back by StewMac](https://img.youtube.com/vi/fCx0D6_93Xw/0.jpg)](https://www.youtube.com/watch?v=fCx0D6_93Xw)
 
 It is very nice from the people from StewMac, that they provide not only a video, but also an [instruction manual](https://www.stewmac.com/globalassets/video-and-ideas/online-resources/reference/stewmac-pedal-mod-kit-instructions/nyc-big-muff-tone-pi-stack-bypass-mod-kit-instructions). But be aware, that this manual is for a specific Big Muff version. You have likely a newer version, where the parts do not aligne with the parts in the manual or the video. It is, however possible to trace the tone stack, identify the corresponding parts of your Big Muff and apply the modification from the manual accordingly. Follow the [Kit Rea to the rescue link](https://www.kitrae.net/music/big_muff_guts.html) and you should be able to figure it out.
+
+### 3. Capacitor on the Sustain potentiometer
+
 
 
