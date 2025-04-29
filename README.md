@@ -45,5 +45,11 @@ I have heared you like guitar pedals. Time to put some more guitar pedals into y
 
 ## Guitar Pedal Kits from [musikding.de](https://musikding.de/)
 
+Musikding is my goto webshop for all DIY pedal building. Sofar I bought 6 Kits and several other parts for project and I can highly recomend them. (Everything is bought by my one money and musikding.de has no knoledge about anything I'm writing right now.
+
+### 1) [Der Range - Germanium Treblebooster Bausatz](https://www.musikding.de/Der-Range-Germanium-Treblebooster-Bausatz)
+
+### 2) [Clean Blend Master Bausatz](https://www.musikding.de/Clean-Blend-Master-Bausatz)
+
 
 
