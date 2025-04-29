@@ -1,5 +1,5 @@
 # The creation of the Franken Muff
-** - it's alive!!!! **
+  -- it's alive!!!!
 
 This is a documentation of my project of a pedelboard with in a pedal or how to get all the air out of a Big Muff Pi.
 
