@@ -20,4 +20,4 @@ For all the mods and more check out [Coda Effects](https://www.coda-effects.com/
 2) Tone Stack
 
 To modify the tone stack of our Big Muff Pi I followed this video hier:
-[![How To Modify Big Muff PI In Few Minutes Just For 1$ - DIY Tutorial by Occvlt Pedals](https://img.youtube.com/vi/z02aRTT1YLU&t/0.jpg)](https://www.youtube.com/watch?v=z02aRTT1YLU&t)
+[![How To Modify Big Muff PI In Few Minutes Just For 1$ - DIY Tutorial by Occvlt Pedals](https://img.youtube.com/vi/z02aRTT1YLU/0.jpg)](https://www.youtube.com/watch?v=z02aRTT1YLU)
