@@ -59,6 +59,21 @@ Now it's the other way around.
 The Clean Blend Master is an add-on for other pedals. It usualy gets integrated into other pedals. I, however, wanted to keep it seperat with a send and return loop. So I wired an input jack on the input and an output jack on the output and a stereo jack with ... (I don't remember anymore), either the tip as send or the ring as return or the other way around. My Clean Blend is therefor seperat from the rest of the pedals. I brock out the trim pot, for the clean signal volume, so that I could adjust it on the fly.
 However, after testing it I need actually a knob to reduce the the volume that I send to the other pedals. (Who would have thought? The other pedals have just 5 gain stages + EQ pedal which could also be another gain stage). That is why I used the potentiometer from the clean volume to reduce the volume of the signal that gets send to the pedals in the loop and soldered a jumper insted onto the socket of the clean volume trim pot so that it has always full volume.
 
+So far everything seems very tame. We just soldered some kits together and chained inputs and outputs together.
+
+Now it's time to put the Frank in Franken Muff. Muhahahahahahah
+
+## Scalping and mutulating the JOYO 6-Band-EQ-Pedal
+
+<a href="https://amzn.eu/d/3w9uaiD" target="blank"><img align="center" src="https://musicasatiendas.com/4118-medium_default/joyo-jf-11-equalizer-pedal-6-band-eq.jpg" height="250" /></a>
+
+The big edvantages of the JOYO 6-Band-EQ-Pedal is:
+1) it's size - it bearly fits with all the other pedals and footswitches
+2) its color pellet, with black finish and red LEDs it fits well with the Big Muff color scheme.
+3) it's price - when I butcher that thing it shouldn't cost me an arm and a leg
+
+
+
 
 
 
