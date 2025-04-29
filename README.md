@@ -52,7 +52,7 @@ Musikding is my go to web shop for all DIY pedal building. So far I bought 6 kit
 ### 2) [Clean Blend Master Bausatz](https://www.musikding.de/Clean-Blend-Master-Bausatz)
 
 As of now, the Clean Blend Master is back in stock, but when I was building the project it was out of stock. It was however possible to order all the parts from musikding.de and order the pcb board from [PCB Mania](https://pcbguitarmania.com) seperately.
-Now it's the other way around. [PCB board for the Clean Blend Master](https://pcbguitarmania.com/product/clean-blend-master/) 
+Now it's the other way around. [PCB board for the Clean Blend Master](https://pcbguitarmania.com/product/clean-blend-master) 
 
 
 
