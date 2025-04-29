@@ -43,7 +43,7 @@ That's it the Big Muff is all modded out.
 
 I have heared you like guitar pedals. Time to put some more guitar pedals into your guitar pedals.
 
-## Guitarpedal Kits from [musikding.de](hhttps://musikding.de/)
+## Guitar Pedal Kits from [musikding.de](https://musikding.de/)
 
 
 
