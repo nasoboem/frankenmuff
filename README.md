@@ -32,7 +32,18 @@ And again Kit Rea to the rescue if you want to understand [what part does what](
 
 It is very nice from the people from StewMac, that they provide not only a video, but also an [instruction manual](https://www.stewmac.com/globalassets/video-and-ideas/online-resources/reference/stewmac-pedal-mod-kit-instructions/nyc-big-muff-tone-pi-stack-bypass-mod-kit-instructions). But be aware, that this manual is for a specific Big Muff version. You have likely a newer version, where the parts do not aligne with the parts in the manual or the video. It is, however possible to trace the tone stack, identify the corresponding parts of your Big Muff and apply the modification from the manual accordingly. Follow the [Kit Rea to the rescue link](https://www.kitrae.net/music/big_muff_guts.html) and you should be able to figure it out.
 
-### 3. Capacitor on the Sustain potentiometer
+### 3. Capacitor on the Sustain potentiometer - clearer roll-off 
+One of the easiest mods on the Big Muff, but in my oppinion one of the best is this one:
+
+[![Schnelle und einfache Mods: Big Muff FUZZ by Tone Charme Audio](https://img.youtube.com/vi/OzrYFc2938/0.jpg)](https://www.youtube.com/watch?v=OzrYFc2938)
+
+Yes it is the same guy from the tone stack mod, just on a nother youTube channel.
+
+That's it the Big Muff is all modded out.
+
+I have heared you like guitar pedals. Time to put some more guitar pedals into your guitar pedals.
+
+## Guitarpedal Kits from [musikding.de](hhttps://musikding.de/)
 
 
 
