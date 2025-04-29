@@ -27,4 +27,4 @@ For all the mods and more check out [Coda Effects](https://www.coda-effects.com/
 
 [![Big Muff Pi tone bypass - quick mod gets the midrange back by StewMac](https://img.youtube.com/vi/fCx0D6_93Xw/0.jpg)](https://www.youtube.com/watch?v=fCx0D6_93Xw)
 
-it is very nice from the people of StewMac, that they provide not only a video, but also an [instruction manual](https://www.stewmac.com/globalassets/video-and-ideas/online-resources/reference/stewmac-pedal-mod-kit-instructions/nyc-big-muff-tone-pi-stack-bypass-mod-kit-instructions). 
+It is very nice from the people from StewMac, that they provide not only a video, but also an [instruction manual](https://www.stewmac.com/globalassets/video-and-ideas/online-resources/reference/stewmac-pedal-mod-kit-instructions/nyc-big-muff-tone-pi-stack-bypass-mod-kit-instructions). But be aware, that this manual is for a specific Big Muff version. You have likey a newer version, where the parts do not alligne with the parts in the manual or the video. It is, however possible to trace the tone stack, identify the coresponding parts of your Big Muff and apply the modification from the manual.
