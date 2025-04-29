@@ -1,5 +1,5 @@
 # The creation of the Franken Muff
-       **- it's alive!!!!**
+       - it's alive!!!!
 
 This is a documentation of my project of a pedelboard with in a pedal or how to get all the air out of a Big Muff Pi.
 
@@ -19,11 +19,8 @@ For all the mods and more check out [Coda Effects](https://www.coda-effects.com/
 
 2) Tone Stack
 
-   - To modify the tone stack of our Big Muff Pi I followed this video hier:
+  - To modify the tone stack of our Big Muff Pi I followed this video hier:
 
 [![How To Modify Big Muff PI In Few Minutes Just For 1$ - DIY Tutorial by Occvlt Pedals](https://img.youtube.com/vi/z02aRTT1YLU/0.jpg)](https://www.youtube.com/watch?v=z02aRTT1YLU)
 
-   - and I wanted to be able to omit the tone stack kompleately
-
-
-
+ - and I wanted to be able to omit the tone stack completely
