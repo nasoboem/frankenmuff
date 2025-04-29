@@ -5,7 +5,7 @@ This is a documentation of my project of a pedelboard with in a pedal or how to 
 
 The whole Project was inspred by the [KMA "Chief Disruptor"](https://kmamachines.com/machines/chief-disruptor/).
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://kmamachines.com/wp-content/uploads/2023/11/kma_machines-chief_disruptor-top-gallery-400x516.jpg" height="250" /></a>
+<a href="https://kmamachines.com/machines/chief-disruptor/#images" target="blank"><img align="center" src="https://kmamachines.com/wp-content/uploads/2023/11/kma_machines-chief_disruptor-top-gallery-400x516.jpg" height="250" /></a>
 
 It is a Fuzz with an active EQ, different selectable Fuzz versions, treble boost and a clean blend.
 
