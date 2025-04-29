@@ -69,8 +69,20 @@ Now it's time to put the Frank in Franken Muff. Muhahahahahahah
 
 The big edvantages of the JOYO 6-Band-EQ-Pedal is:
 1) it's size - it bearly fits with all the other pedals and footswitches
-2) its color pellet, with black finish and red LEDs it fits well with the Big Muff color scheme.
+2) its color pellet, with black finish and red LEDs it fits well with the Big Muff color scheme
 3) it's price - when I butcher that thing it shouldn't cost me an arm and a leg
+
+Fiting everything into the enclosure was taxing. I first had to get the jacks off. I wanted to cut little slits for the faders into the Big Muff enclosure, however the sheetmetal from the Big Muff is so hard, it's a real hassel to cut and drill any shapes into it, let alone very straight parallel lines. I maneged to get three in which took for ages and in the prozess ruined the surface of the Big Muff. I needed a better solution. I would cut a big rectangle into the Big Muff to fitt all the faders and would close the hole of with the face of the Joyo. The aluminium was a blast to work with after the steal. Not only was I able to save the markings from the Joyo, so that one does know which frequenzes are changed by the equalizer, but when your pedal wares the face of another pedal, it schould look cool with agressive spiky teeth and little dead bead screw eyes. I also had to cut into the pcb of the Joyo to make space for Big Muff footswitch. It was where the former output jack resided. I was lucky that I didn't severed one of the copper lines within the pcb.
+
+Originaly I wanted to be able to change the position of the equalizer either in front, or the back or insted of the tone stack into the Big Muff. However, I wasnt smart enough to figure out how to switch that. Now its stationary in the end of the chain.
+
+Big Muff > Rangemaster > Joyo 6-Band EQ
+
+The biggest question is how does it sound? I like the vintage blues sound one gets when the guitar volume knob is turned down. So the biggest win is the clarety rolling down the Sustain knob. I like the sound first stage silicone diode clipping, second stage LED clipping. In this setup I leaf the tone stack dead center, unmoded. Rangemaster and EQ not engaged. 
+
+If you want the best sounding Big Muff I can produce with my setup, just do this two mods.
+
+If you also want a Franken Muff with so many holes that you have to tare of faces from oter pedals and make your Muff ware them as a totem mask. Be my guest and have fun with your Big Muff Pi.
 
 
 
