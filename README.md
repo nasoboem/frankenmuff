@@ -52,7 +52,14 @@ Musikding is my go to web shop for all DIY pedal building. So far I bought 6 kit
 ### 2) [Clean Blend Master Bausatz](https://www.musikding.de/Clean-Blend-Master-Bausatz)
 
 As of now, the Clean Blend Master is back in stock, but when I was building the project it was out of stock. It was however possible to order all the parts from musikding.de and order the pcb board from [PCB Mania](https://pcbguitarmania.com) seperately.
-Now it's the other way around. [PCB board for the Clean Blend Master](https://pcbguitarmania.com/product/clean-blend-master) 
+Now it's the other way around.
+
+[PCB board for the Clean Blend Master](https://pcbguitarmania.com/product/clean-blend-master)
+
+The Clean Blend Master is an add-on for other pedals. It usualy gets integrated into other pedals. I, however, wanted to keep it seperat with a send and return loop. So I wired an input jack on the input and an output jack on the output and a stereo jack with ... (I don't remember anymore), either the tip as send or the ring as return or the other way around. My Clean Blend is therefor seperat from the rest of the pedals. I brock out the trim pot, for the clean signal volume, so that I could adjust it on the fly.
+However, after testing it I need actually a knob to reduce the the volume that I send to the other pedals. (Who would have thought? The other pedals have just 5 gain stages + EQ pedal which could also be another gain stage). That is why I used the potentiometer from the clean volume to reduce the volume of the signal that gets send to the pedals in the loop and soldered a jumper insted onto the socket of the clean volume trim pot so that it has always full volume.
+
+
 
 
 
