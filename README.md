@@ -35,7 +35,7 @@ It is very nice from the people from StewMac, that they provide not only a video
 ### 3. Capacitor on the Sustain potentiometer - clearer roll-off 
 One of the easiest mods on the Big Muff, but in my oppinion one of the best is this one:
 
-[![Schnelle und einfache Mods: Big Muff FUZZ by Tone Charme Audio](https://img.youtube.com/vi/OzrYFc2938/0.jpg)](https://www.youtube.com/watch?v=OzrYFc2938)
+[![Schnelle und einfache Mods: Big Muff FUZZ by Tone Charme Audio](https://img.youtube.com/vi/-OzrYFc2938/0.jpg)](https://www.youtube.com/watch?v=-OzrYFc2938))
 
 Yes it is the same guy from the tone stack mod, just on a nother youTube channel.
 
