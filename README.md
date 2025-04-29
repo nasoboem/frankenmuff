@@ -12,13 +12,12 @@ It is a Fuzz with an active EQ, different selectable Fuzz versions, treble boost
 At first we searcht the web for all the fun ways to modify a Big Muff Pi to get as mutch veriaty as we can from our Muff.
 For all the mods and more check out [Coda Effects](https://www.coda-effects.com/2015/11/big-muff-mods-and-tweaks.html?m=0), it was invalueable recource.
 
-1) Clipping Stages (both stages!)
+### 1) Clipping Stages (both stages!)
  - standard silicon diod
  - red LEDs
  - none
 
-2) Tone Stack
-
+### 2) Tone Stack
  - To modify the tone stack of the Big Muff Pi I followed this video hier:
 
 [![How To Modify Big Muff PI In Few Minutes Just For 1$ - DIY Tutorial by Occvlt Pedals](https://img.youtube.com/vi/z02aRTT1YLU/0.jpg)](https://www.youtube.com/watch?v=z02aRTT1YLU)
