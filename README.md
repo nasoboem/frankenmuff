@@ -10,12 +10,7 @@ The whole Project was inspred by the [KMA "Chief Disruptor"](https://kmamachines
 
 
 
-
-
-
 ![Picture of KMAs Chief Disruptor](https://kmamachines.com/wp-content/uploads/2023/11/kma_machines-chief_disruptor-top-gallery-400x516.jpg)
-
-
 
 
 It is a Fuzz with an active EQ, different selectable Fuzz versions, treble boost and a clean blend.
