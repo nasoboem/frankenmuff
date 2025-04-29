@@ -1,6 +1,6 @@
 # frankenmuff
-The creation of the Franken Muff
-- it's alive!!!!
+# header H1 The creation of the Franken Muff
+# header H2 - it's alive!!!!
 
 This is a documentation of my project of a pedelboard with in a pedal or how to get all the air out of a Big Muff Pi.
 
