@@ -13,17 +13,17 @@ At first we searcht the web for all the fun ways to modify a Big Muff Pi to get 
 For all the mods and more check out [Coda Effects](https://www.coda-effects.com/2015/11/big-muff-mods-and-tweaks.html?m=0), it was invalueable recource.
 
 1) Clipping Stages (both stages!)
-   - standard silicon diod
-   - red LEDs
-   - none
+ - standard silicon diod
+ - red LEDs
+ - none
 
 2) Tone Stack
 
-   - To modify the tone stack of the Big Muff Pi I followed this video hier:
+ - To modify the tone stack of the Big Muff Pi I followed this video hier:
 
 [![How To Modify Big Muff PI In Few Minutes Just For 1$ - DIY Tutorial by Occvlt Pedals](https://img.youtube.com/vi/z02aRTT1YLU/0.jpg)](https://www.youtube.com/watch?v=z02aRTT1YLU)
 
-   - and I wanted to be able to omit the tone stack completely. For that I used this instructions.
+ - and I wanted to be able to omit the tone stack completely. For that I used this instructions.
 
 [![Big Muff Pi tone bypass - quick mod gets the midrange back by StewMac](https://img.youtube.com/vi/fCx0D6_93Xw/0.jpg)](https://www.youtube.com/watch?v=fCx0D6_93Xw)
 
