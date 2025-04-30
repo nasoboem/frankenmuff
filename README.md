@@ -86,9 +86,8 @@ If you want the best sounding Big Muff I can produce with my setup, just do this
 
 I'm still in search of a Muff that can beat the sound of my Franken Muff. I have tested the Wampler Crypted and the Wren and Cuff Your Face 60's and send them back.
 
-<a href="[https://www.wrenandcuff.com/products/your-face-60s" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/553c81b0e4b0ee62c7b9bd89/1604012258668-VZ7BSF4F85O40Y9OY57W/your_face_60_front_knobs_up_replace.jpg" height="250" /></a>
+<a href="https://www.wamplerpedals.com/products/fuzz/cryptid-fuzz/" target="blank"><img align="center" src="https://www.wamplerpedals.com/wp-content/uploads/2025/02/cryptid-top-980x980.png.webp" height="250" /></a> <a href="https://www.wrenandcuff.com/products/your-face-60s" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/553c81b0e4b0ee62c7b9bd89/1604012258668-VZ7BSF4F85O40Y9OY57W/your_face_60_front_knobs_up_replace.jpg" height="250" /></a>
 
-https://images.squarespace-cdn.com/content/v1/553c81b0e4b0ee62c7b9bd89/1604012258668-VZ7BSF4F85O40Y9OY57W/your_face_60_front_knobs_up_replace.jpg
 
 If anyone wants to send me a contender. Get in touch and I will test them against my Franken Muff.
 
