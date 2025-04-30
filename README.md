@@ -91,7 +91,7 @@ I'm still in search of a Muff that can beat the sound of my Franken Muff. I have
 
 If anyone wants to send me a contender. Get in touch and I will test them against my Franken Muff.
 
-If you also want a Franken Muff with so many holes that you have to tare of faces from oter pedals and make your Muff ware them as a totem mask. Be my guest and have fun with your Big Muff Pi.
+If you also want a Franken Muff with so many holes that you have to tare of faces from other pedals and make your Muff ware them as a totem mask. Be my guest and have fun with your Big Muff Pi.
 
 
 
