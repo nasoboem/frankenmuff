@@ -39,7 +39,7 @@ One of the easiest mods on the Big Muff, but in my oppinion one of the best is t
 
 Yes it is the same guy from the tone stack mod, just on a nother youTube channel.
 
-That's it the Big Muff is all modded out.
+That's it, the Big Muff is all modded out.
 
 I have heared you like guitar pedals. Time to put some more guitar pedals into your guitar pedals.
 
@@ -48,6 +48,8 @@ I have heared you like guitar pedals. Time to put some more guitar pedals into y
 Musikding is my go to web shop for all DIY pedal building. So far I bought 6 kits and several other parts for project and I can highly recommend them. (Everything is bought by my one money and musikding.de has no knowledge about anything I'm writing right now.
 
 ### 1) [Der Range - Germanium Treblebooster Bausatz](https://www.musikding.de/Der-Range-Germanium-Treblebooster-Bausatz)
+
+For the range I just build the kit and addet it after the Big Muff. I decided to put it after the Big Muff based on a video I watched and now when I'm writing this I can't find it anymore. So you have to trust me, that out there on the interweb there is a video of a jung woman testing a rangmaster clone befor and after a fuzz and after sounded better. So based on this one video that is not anywhere to find and on my singel opinion and tast you should definiely alway and only play The Big Muff in front and never after a rangemaster clone of anykind. Otherwise the guitar gods will send you to hell for eternity and you will be condemed to repeate your 3 most heated chords for ever or something.     
 
 ### 2) [Clean Blend Master Bausatz](https://www.musikding.de/Clean-Blend-Master-Bausatz)
 
