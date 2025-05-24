@@ -46,7 +46,7 @@ Yes it is the same guy from the tone stack mod, just on a nother youTube channel
 
 That's it, the Big Muff is all modded out.
 
-I have heared you like guitar pedals. Time to put some more guitar pedals into your guitar pedals.
+I have heared you like guitar pedals. Time to put some more guitar pedals into your guitar pedal.
 
 ## Guitar Pedal Kits from [musikding.de](https://musikding.de/)
 
