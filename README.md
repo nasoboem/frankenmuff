@@ -5,7 +5,7 @@ This is a documentation of my project of a pedelboard with in a pedal or how to 
 
 ![Image](https://github.com/user-attachments/assets/356f6a30-1b11-48eb-a51c-429612e73251)
 
-![Image](https://github.com/user-attachments/assets/02a47e81-5740-4c3e-a7ac-5f2693a7a26d)
+![Image](https://github.com/user-attachments/assets/97c16ae9-3ecc-4a7b-9c41-0c937f0c17ca)
 
 The whole Project was inspired by the [KMA "Chief Disruptor"](https://kmamachines.com/machines/chief-disruptor/).
 
