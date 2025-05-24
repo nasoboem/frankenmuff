@@ -3,9 +3,10 @@
 
 This is a documentation of my project of a pedelboard with in a pedal or how to get all the air out of a Big Muff Pi.
 
-![Image](https://github.com/user-attachments/assets/356f6a30-1b11-48eb-a51c-429612e73251)
+![Image](https://github.com/user-attachments/assets/58616cad-c4ba-49f6-8049-98523e47a33c)
 
-![Image](https://github.com/user-attachments/assets/97c16ae9-3ecc-4a7b-9c41-0c937f0c17ca)
+![Image](https://github.com/user-attachments/assets/d99f2204-40d1-4cae-b741-44ce4dc25abd)
+
 
 The whole Project was inspired by the [KMA "Chief Disruptor"](https://kmamachines.com/machines/chief-disruptor/).
 
