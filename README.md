@@ -26,6 +26,8 @@ And again Kit Rea to the rescue if you want to understand [what part does what](
  - red LEDs
  - none
 
+![Image](https://github.com/user-attachments/assets/79183f9b-f3b0-4db7-8e14-6e1fc406699c)
+
 ### 2) Tone Stack
  - To modify the tone stack of the Big Muff Pi I followed this video here:
 
