@@ -7,6 +7,8 @@ This is a documentation of my project of a pedelboard with in a pedal or how to 
 
 ![Image](https://github.com/user-attachments/assets/d99f2204-40d1-4cae-b741-44ce4dc25abd)
 
+### Watch my video here to hear what it sounds like!!
+
 [![Franken Muff](https://img.youtube.com/vi/2hE-N0vgE9g/0.jpg)]([(https://www.youtube.com/watch?v=2hE-N0vgE9g)]))
 
 
