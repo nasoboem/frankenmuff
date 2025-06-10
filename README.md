@@ -9,7 +9,7 @@ This is a documentation of my project of a pedelboard with in a pedal or how to 
 
 ### Watch my video here to hear what it sounds like!!
 
-[![Franken Muff](https://img.youtube.com/vi/2hE-N0vgE9g/0.jpg)]([(https://www.youtube.com/watch?v=2hE-N0vgE9g)]))
+[![Franken Muff](https://img.youtube.com/vi/2hE-N0vgE9g/0.jpg)](https://www.youtube.com/watch?v=2hE-N0vgE9g)
 
 
 The whole Project was inspired by the [KMA "Chief Disruptor"](https://kmamachines.com/machines/chief-disruptor/).
